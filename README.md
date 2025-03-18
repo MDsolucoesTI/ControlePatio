@@ -16,7 +16,6 @@ Projeto cancelado por mudanças nas políticas de embarque de veículos
 
 Banco de Dados utilizado: _Access_ (Determinado pelo provedor Web)
 Estrutura de Dados: _XML_, _CSV_  
-Componentes básicos, RX, LMD, Jedi, de terceiros e próprios do Delphi _versões 5 e 6_
 
 Autores: **Marilene Esquiavoni** & **Denny Paulista Azevedo Filho**
 
